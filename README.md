@@ -1,74 +1,110 @@
-# Hey there!
+# Hi there! 👋
 
 <div align="center">
-  <h1>
-    Welcome to My GitHub Profile! 🚀
-  </h1>
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Digital+Space!+🚀;Android+%26+Web+Developer+💻;Always+Learning+Something+New!+✨" alt="Typing SVG" />
 </div>
-
----
-
-## 🌟 Random Fun Fact
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300px"/>
-  <p><em>Did you know? Honey never spoils! Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old and are still edible. like my love for her never spoils it's just not edible🍯</em></p>
-</div>
-
----
-
-## 💻 Tech Stack
-
-### 🔥 Frontend & Backend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
 </p>
 
-### 🛠 Tools & IDEs
+---
+
+🌟 Random Dev Fact
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300px"/>
+  <p><em>💡 Did you know? The first computer bug was an actual bug! Grace Hopper found a moth trapped in a Harvard Mark II computer in 1947. Just like my code - sometimes it has bugs, but they're features! 🐛✨</em></p>
+</div>
+---
+
+## 🚀 About Me
+
+- 📱 **Android Developer** - Building mobile apps with Java & Kotlin
+- 🌐 **Web Developer** - Creating web solutions with PHP & Laravel
+- 🎨 **UI/UX Enthusiast** - Designing clean and user-friendly interfaces
+- 📚 **Always Learning** - Currently exploring new technologies and best practices
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend & Design
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### ⚡ Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase" />
+</p>
+
+### 🔧 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rallymizanur42&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rallymizanur42&theme=radical&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rallymizanur42&theme=radical&show_icons=true&hide_border=true&layout=compact"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rallymizanur42&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rallymizanur42&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rallymizanur42&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+</div>
 
 ---
 
-## 🌍 Connect with Me
+## 🎯 Current Focus
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rally-mizanur-a31253331/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/rlly.mznr_/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+- 🔭 Working on mobile app projects with modern Android development
+- 🌱 Learning advanced Firebase features and cloud functions
+- 👯 Looking to collaborate on open source Android/Web projects
+- 💬 Ask me about Android development, Laravel, or web design
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rallymizanur42&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
   
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rally-mizanur-a31253331/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rlly.mznr_/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rallymizanur42)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rallymizanur42&style=flat-square&color=red" alt="Profile Views"/>
-</p>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=rallymizanur42&style=for-the-badge&color=0969da)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+**Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech!** 😊
+
+</div>
